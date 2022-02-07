@@ -1,0 +1,402 @@
+
+
+[2021.11.27/16:55:15] - Alert Text: 아이디 또는 비밀번호가 올바르지 않습니다.
+Message: unexpected alert open: {Alert text : 아이디 또는 비밀번호가 올바르지 않습니다.}
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00936903+2517251]
+	Ordinal0 [0x008CF8E1+2095329]
+	Ordinal0 [0x007D2848+1058888]
+	Ordinal0 [0x008259FB+1399291]
+	Ordinal0 [0x0081639B+1336219]
+	Ordinal0 [0x007F27A7+1189799]
+	Ordinal0 [0x007F3609+1193481]
+	GetHandleVerifier [0x00AC5904+1577972]
+	GetHandleVerifier [0x00B70B97+2279047]
+	GetHandleVerifier [0x009C6D09+534521]
+	GetHandleVerifier [0x009C5DB9+530601]
+	Ordinal0 [0x008D4FF9+2117625]
+	Ordinal0 [0x008D98A8+2136232]
+	Ordinal0 [0x008D99E2+2136546]
+	Ordinal0 [0x008E3541+2176321]
+	BaseThreadInitThunk [0x7642FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x776C7A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x776C7A6E+238]
+
+[2021.11.27/19:44:26] - Alert Text: 아이디 또는 비밀번호가 올바르지 않습니다.
+Message: unexpected alert open: {Alert text : 아이디 또는 비밀번호가 올바르지 않습니다.}
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00936903+2517251]
+	Ordinal0 [0x008CF8E1+2095329]
+	Ordinal0 [0x007D2848+1058888]
+	Ordinal0 [0x008259FB+1399291]
+	Ordinal0 [0x0081639B+1336219]
+	Ordinal0 [0x007F27A7+1189799]
+	Ordinal0 [0x007F3609+1193481]
+	GetHandleVerifier [0x00AC5904+1577972]
+	GetHandleVerifier [0x00B70B97+2279047]
+	GetHandleVerifier [0x009C6D09+534521]
+	GetHandleVerifier [0x009C5DB9+530601]
+	Ordinal0 [0x008D4FF9+2117625]
+	Ordinal0 [0x008D98A8+2136232]
+	Ordinal0 [0x008D99E2+2136546]
+	Ordinal0 [0x008E3541+2176321]
+	BaseThreadInitThunk [0x7642FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x776C7A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x776C7A6E+238]
+
+[2021.11.27/19:58:07] - Message: element not interactable
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00E06903+2517251]
+	Ordinal0 [0x00D9F8E1+2095329]
+	Ordinal0 [0x00CA2710+1058576]
+	Ordinal0 [0x00CCE324+1237796]
+	Ordinal0 [0x00CC4037+1196087]
+	Ordinal0 [0x00CE64D3+1336531]
+	Ordinal0 [0x00CC3A36+1194550]
+	Ordinal0 [0x00CE65BA+1336762]
+	Ordinal0 [0x00CF5BBF+1399743]
+	Ordinal0 [0x00CE639B+1336219]
+	Ordinal0 [0x00CC27A7+1189799]
+	Ordinal0 [0x00CC3609+1193481]
+	GetHandleVerifier [0x00F95904+1577972]
+	GetHandleVerifier [0x01040B97+2279047]
+	GetHandleVerifier [0x00E96D09+534521]
+	GetHandleVerifier [0x00E95DB9+530601]
+	Ordinal0 [0x00DA4FF9+2117625]
+	Ordinal0 [0x00DA98A8+2136232]
+	Ordinal0 [0x00DA99E2+2136546]
+	Ordinal0 [0x00DB3541+2176321]
+	BaseThreadInitThunk [0x75E4FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A47A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A47A6E+238]
+
+[2021.11.27/19:59:35] - Alert Text: 아이디 또는 비밀번호가 올바르지 않습니다.
+Message: unexpected alert open: {Alert text : 아이디 또는 비밀번호가 올바르지 않습니다.}
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00E06903+2517251]
+	Ordinal0 [0x00D9F8E1+2095329]
+	Ordinal0 [0x00CA2848+1058888]
+	Ordinal0 [0x00CF59FB+1399291]
+	Ordinal0 [0x00CE639B+1336219]
+	Ordinal0 [0x00CC27A7+1189799]
+	Ordinal0 [0x00CC3609+1193481]
+	GetHandleVerifier [0x00F95904+1577972]
+	GetHandleVerifier [0x01040B97+2279047]
+	GetHandleVerifier [0x00E96D09+534521]
+	GetHandleVerifier [0x00E95DB9+530601]
+	Ordinal0 [0x00DA4FF9+2117625]
+	Ordinal0 [0x00DA98A8+2136232]
+	Ordinal0 [0x00DA99E2+2136546]
+	Ordinal0 [0x00DB3541+2176321]
+	BaseThreadInitThunk [0x75E4FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A47A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A47A6E+238]
+
+[2021.11.27/20:01:25] - Alert Text: 아이디 또는 비밀번호가 올바르지 않습니다.
+Message: unexpected alert open: {Alert text : 아이디 또는 비밀번호가 올바르지 않습니다.}
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00E06903+2517251]
+	Ordinal0 [0x00D9F8E1+2095329]
+	Ordinal0 [0x00CA2848+1058888]
+	Ordinal0 [0x00CF59FB+1399291]
+	Ordinal0 [0x00CE639B+1336219]
+	Ordinal0 [0x00CC27A7+1189799]
+	Ordinal0 [0x00CC3609+1193481]
+	GetHandleVerifier [0x00F95904+1577972]
+	GetHandleVerifier [0x01040B97+2279047]
+	GetHandleVerifier [0x00E96D09+534521]
+	GetHandleVerifier [0x00E95DB9+530601]
+	Ordinal0 [0x00DA4FF9+2117625]
+	Ordinal0 [0x00DA98A8+2136232]
+	Ordinal0 [0x00DA99E2+2136546]
+	Ordinal0 [0x00DB3541+2176321]
+	BaseThreadInitThunk [0x75E4FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A47A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A47A6E+238]
+
+[2021.11.27/20:19:36] - Message: no such element: Unable to locate element: {"method":"partial link text","selector":"'2021-11-29','08:00~10:00'"}
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00E06903+2517251]
+	Ordinal0 [0x00D9F8E1+2095329]
+	Ordinal0 [0x00CA2848+1058888]
+	Ordinal0 [0x00CCD448+1233992]
+	Ordinal0 [0x00CCD63B+1234491]
+	Ordinal0 [0x00CF7812+1406994]
+	Ordinal0 [0x00CE650A+1336586]
+	Ordinal0 [0x00CF5BBF+1399743]
+	Ordinal0 [0x00CE639B+1336219]
+	Ordinal0 [0x00CC27A7+1189799]
+	Ordinal0 [0x00CC3609+1193481]
+	GetHandleVerifier [0x00F95904+1577972]
+	GetHandleVerifier [0x01040B97+2279047]
+	GetHandleVerifier [0x00E96D09+534521]
+	GetHandleVerifier [0x00E95DB9+530601]
+	Ordinal0 [0x00DA4FF9+2117625]
+	Ordinal0 [0x00DA98A8+2136232]
+	Ordinal0 [0x00DA99E2+2136546]
+	Ordinal0 [0x00DB3541+2176321]
+	BaseThreadInitThunk [0x75E4FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A47A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A47A6E+238]
+
+[2021.11.27/20:19:36] - Message: no such element: Unable to locate element: {"method":"partial link text","selector":"'2021-11-29','08:00~10:00'"}
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00E06903+2517251]
+	Ordinal0 [0x00D9F8E1+2095329]
+	Ordinal0 [0x00CA2848+1058888]
+	Ordinal0 [0x00CCD448+1233992]
+	Ordinal0 [0x00CCD63B+1234491]
+	Ordinal0 [0x00CF7812+1406994]
+	Ordinal0 [0x00CE650A+1336586]
+	Ordinal0 [0x00CF5BBF+1399743]
+	Ordinal0 [0x00CE639B+1336219]
+	Ordinal0 [0x00CC27A7+1189799]
+	Ordinal0 [0x00CC3609+1193481]
+	GetHandleVerifier [0x00F95904+1577972]
+	GetHandleVerifier [0x01040B97+2279047]
+	GetHandleVerifier [0x00E96D09+534521]
+	GetHandleVerifier [0x00E95DB9+530601]
+	Ordinal0 [0x00DA4FF9+2117625]
+	Ordinal0 [0x00DA98A8+2136232]
+	Ordinal0 [0x00DA99E2+2136546]
+	Ordinal0 [0x00DB3541+2176321]
+	BaseThreadInitThunk [0x75E4FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A47A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A47A6E+238]
+
+[2021.11.27/20:20:30] - Message: no such element: Unable to locate element: {"method":"partial link text","selector":"'2021-11-29','08:00~10:00'"}
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00E06903+2517251]
+	Ordinal0 [0x00D9F8E1+2095329]
+	Ordinal0 [0x00CA2848+1058888]
+	Ordinal0 [0x00CCD448+1233992]
+	Ordinal0 [0x00CCD63B+1234491]
+	Ordinal0 [0x00CF7812+1406994]
+	Ordinal0 [0x00CE650A+1336586]
+	Ordinal0 [0x00CF5BBF+1399743]
+	Ordinal0 [0x00CE639B+1336219]
+	Ordinal0 [0x00CC27A7+1189799]
+	Ordinal0 [0x00CC3609+1193481]
+	GetHandleVerifier [0x00F95904+1577972]
+	GetHandleVerifier [0x01040B97+2279047]
+	GetHandleVerifier [0x00E96D09+534521]
+	GetHandleVerifier [0x00E95DB9+530601]
+	Ordinal0 [0x00DA4FF9+2117625]
+	Ordinal0 [0x00DA98A8+2136232]
+	Ordinal0 [0x00DA99E2+2136546]
+	Ordinal0 [0x00DB3541+2176321]
+	BaseThreadInitThunk [0x75E4FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A47A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A47A6E+238]
+
+[2021.11.27/20:20:30] - Message: no such element: Unable to locate element: {"method":"partial link text","selector":"'2021-11-29','08:00~10:00'"}
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00E06903+2517251]
+	Ordinal0 [0x00D9F8E1+2095329]
+	Ordinal0 [0x00CA2848+1058888]
+	Ordinal0 [0x00CCD448+1233992]
+	Ordinal0 [0x00CCD63B+1234491]
+	Ordinal0 [0x00CF7812+1406994]
+	Ordinal0 [0x00CE650A+1336586]
+	Ordinal0 [0x00CF5BBF+1399743]
+	Ordinal0 [0x00CE639B+1336219]
+	Ordinal0 [0x00CC27A7+1189799]
+	Ordinal0 [0x00CC3609+1193481]
+	GetHandleVerifier [0x00F95904+1577972]
+	GetHandleVerifier [0x01040B97+2279047]
+	GetHandleVerifier [0x00E96D09+534521]
+	GetHandleVerifier [0x00E95DB9+530601]
+	Ordinal0 [0x00DA4FF9+2117625]
+	Ordinal0 [0x00DA98A8+2136232]
+	Ordinal0 [0x00DA99E2+2136546]
+	Ordinal0 [0x00DB3541+2176321]
+	BaseThreadInitThunk [0x75E4FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A47A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A47A6E+238]
+
+[2021.11.27/20:21:24] - Message: no such element: Unable to locate element: {"method":"partial link text","selector":"'2021-11-29','08:00~10:00'"}
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00E06903+2517251]
+	Ordinal0 [0x00D9F8E1+2095329]
+	Ordinal0 [0x00CA2848+1058888]
+	Ordinal0 [0x00CCD448+1233992]
+	Ordinal0 [0x00CCD63B+1234491]
+	Ordinal0 [0x00CF7812+1406994]
+	Ordinal0 [0x00CE650A+1336586]
+	Ordinal0 [0x00CF5BBF+1399743]
+	Ordinal0 [0x00CE639B+1336219]
+	Ordinal0 [0x00CC27A7+1189799]
+	Ordinal0 [0x00CC3609+1193481]
+	GetHandleVerifier [0x00F95904+1577972]
+	GetHandleVerifier [0x01040B97+2279047]
+	GetHandleVerifier [0x00E96D09+534521]
+	GetHandleVerifier [0x00E95DB9+530601]
+	Ordinal0 [0x00DA4FF9+2117625]
+	Ordinal0 [0x00DA98A8+2136232]
+	Ordinal0 [0x00DA99E2+2136546]
+	Ordinal0 [0x00DB3541+2176321]
+	BaseThreadInitThunk [0x75E4FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A47A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A47A6E+238]
+
+[2021.11.27/20:21:25] - Message: no such element: Unable to locate element: {"method":"partial link text","selector":"'2021-11-29','08:00~10:00'"}
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00E06903+2517251]
+	Ordinal0 [0x00D9F8E1+2095329]
+	Ordinal0 [0x00CA2848+1058888]
+	Ordinal0 [0x00CCD448+1233992]
+	Ordinal0 [0x00CCD63B+1234491]
+	Ordinal0 [0x00CF7812+1406994]
+	Ordinal0 [0x00CE650A+1336586]
+	Ordinal0 [0x00CF5BBF+1399743]
+	Ordinal0 [0x00CE639B+1336219]
+	Ordinal0 [0x00CC27A7+1189799]
+	Ordinal0 [0x00CC3609+1193481]
+	GetHandleVerifier [0x00F95904+1577972]
+	GetHandleVerifier [0x01040B97+2279047]
+	GetHandleVerifier [0x00E96D09+534521]
+	GetHandleVerifier [0x00E95DB9+530601]
+	Ordinal0 [0x00DA4FF9+2117625]
+	Ordinal0 [0x00DA98A8+2136232]
+	Ordinal0 [0x00DA99E2+2136546]
+	Ordinal0 [0x00DB3541+2176321]
+	BaseThreadInitThunk [0x75E4FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A47A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A47A6E+238]
+
+[2021.11.27/20:25:22] - Message: no such element: Unable to locate element: {"method":"partial link text","selector":"'2021-11-29','08:00~10:00'"}
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00E06903+2517251]
+	Ordinal0 [0x00D9F8E1+2095329]
+	Ordinal0 [0x00CA2848+1058888]
+	Ordinal0 [0x00CCD448+1233992]
+	Ordinal0 [0x00CCD63B+1234491]
+	Ordinal0 [0x00CF7812+1406994]
+	Ordinal0 [0x00CE650A+1336586]
+	Ordinal0 [0x00CF5BBF+1399743]
+	Ordinal0 [0x00CE639B+1336219]
+	Ordinal0 [0x00CC27A7+1189799]
+	Ordinal0 [0x00CC3609+1193481]
+	GetHandleVerifier [0x00F95904+1577972]
+	GetHandleVerifier [0x01040B97+2279047]
+	GetHandleVerifier [0x00E96D09+534521]
+	GetHandleVerifier [0x00E95DB9+530601]
+	Ordinal0 [0x00DA4FF9+2117625]
+	Ordinal0 [0x00DA98A8+2136232]
+	Ordinal0 [0x00DA99E2+2136546]
+	Ordinal0 [0x00DB3541+2176321]
+	BaseThreadInitThunk [0x75E4FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A47A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A47A6E+238]
+
+[2021.11.27/20:25:22] - Message: no such element: Unable to locate element: {"method":"partial link text","selector":"'2021-11-29','08:00~10:00'"}
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00E06903+2517251]
+	Ordinal0 [0x00D9F8E1+2095329]
+	Ordinal0 [0x00CA2848+1058888]
+	Ordinal0 [0x00CCD448+1233992]
+	Ordinal0 [0x00CCD63B+1234491]
+	Ordinal0 [0x00CF7812+1406994]
+	Ordinal0 [0x00CE650A+1336586]
+	Ordinal0 [0x00CF5BBF+1399743]
+	Ordinal0 [0x00CE639B+1336219]
+	Ordinal0 [0x00CC27A7+1189799]
+	Ordinal0 [0x00CC3609+1193481]
+	GetHandleVerifier [0x00F95904+1577972]
+	GetHandleVerifier [0x01040B97+2279047]
+	GetHandleVerifier [0x00E96D09+534521]
+	GetHandleVerifier [0x00E95DB9+530601]
+	Ordinal0 [0x00DA4FF9+2117625]
+	Ordinal0 [0x00DA98A8+2136232]
+	Ordinal0 [0x00DA99E2+2136546]
+	Ordinal0 [0x00DB3541+2176321]
+	BaseThreadInitThunk [0x75E4FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A47A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A47A6E+238]
+
+[2021.11.27/20:32:55] - Message: no such element: Unable to locate element: {"method":"link text","selector":"javascript:fncSubmit('112','2021-11-29','08:00~10:00','n','01');"}
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00E06903+2517251]
+	Ordinal0 [0x00D9F8E1+2095329]
+	Ordinal0 [0x00CA2848+1058888]
+	Ordinal0 [0x00CCD448+1233992]
+	Ordinal0 [0x00CCD63B+1234491]
+	Ordinal0 [0x00CF7812+1406994]
+	Ordinal0 [0x00CE650A+1336586]
+	Ordinal0 [0x00CF5BBF+1399743]
+	Ordinal0 [0x00CE639B+1336219]
+	Ordinal0 [0x00CC27A7+1189799]
+	Ordinal0 [0x00CC3609+1193481]
+	GetHandleVerifier [0x00F95904+1577972]
+	GetHandleVerifier [0x01040B97+2279047]
+	GetHandleVerifier [0x00E96D09+534521]
+	GetHandleVerifier [0x00E95DB9+530601]
+	Ordinal0 [0x00DA4FF9+2117625]
+	Ordinal0 [0x00DA98A8+2136232]
+	Ordinal0 [0x00DA99E2+2136546]
+	Ordinal0 [0x00DB3541+2176321]
+	BaseThreadInitThunk [0x75E4FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A47A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A47A6E+238]
+
+[2021.11.27/20:32:55] - Message: no such element: Unable to locate element: {"method":"link text","selector":"javascript:fncSubmit('112','2021-11-29','08:00~10:00','n','01');"}
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00E06903+2517251]
+	Ordinal0 [0x00D9F8E1+2095329]
+	Ordinal0 [0x00CA2848+1058888]
+	Ordinal0 [0x00CCD448+1233992]
+	Ordinal0 [0x00CCD63B+1234491]
+	Ordinal0 [0x00CF7812+1406994]
+	Ordinal0 [0x00CE650A+1336586]
+	Ordinal0 [0x00CF5BBF+1399743]
+	Ordinal0 [0x00CE639B+1336219]
+	Ordinal0 [0x00CC27A7+1189799]
+	Ordinal0 [0x00CC3609+1193481]
+	GetHandleVerifier [0x00F95904+1577972]
+	GetHandleVerifier [0x01040B97+2279047]
+	GetHandleVerifier [0x00E96D09+534521]
+	GetHandleVerifier [0x00E95DB9+530601]
+	Ordinal0 [0x00DA4FF9+2117625]
+	Ordinal0 [0x00DA98A8+2136232]
+	Ordinal0 [0x00DA99E2+2136546]
+	Ordinal0 [0x00DB3541+2176321]
+	BaseThreadInitThunk [0x75E4FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77A47A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A47A6E+238]
+
+[2021.11.27/20:40:05] - "javascript:fncSubmit('112','2021-11-29','08:00~10:00','n','01');"
+[2021.11.27/20:40:07] - "javascript:fncSubmit('112','2021-11-29','08:00~10:00','n','01');"
+[2021.11.27/20:40:46] - "javascript:fncSubmit('112','2021-11-29','08:00~10:00','n','01')"
+[2021.11.27/20:40:46] - "javascript:fncSubmit('112','2021-11-29','08:00~10:00','n','01')"
+[2021.11.27/20:41:41] - EOF when reading a line
+[2021.11.27/20:41:41] - EOF when reading a line
